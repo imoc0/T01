@@ -1,1 +1,1 @@
-oracle:203.160.72.6:60022:/data/luo/backup/
+oracle:203.160.72.6:60022:/data/luo/backup/upload
