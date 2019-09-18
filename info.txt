@@ -1,1 +1,1 @@
-oracle:203.160.72.6:60022:/data/luo/backup/upload
+mdsweb:120.27.0.247:12022:/data/backup/upload
